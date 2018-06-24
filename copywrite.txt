@@ -1,5 +1,0 @@
-/* Copyright (C) Ayushee Shah - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Ayushee Shah <shahayushee@gmail.com> March,2017
- */
