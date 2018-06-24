@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2017 ayushee/RTOS
+Copyright (C) 2017 ayushee/RTOS - All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Written by Ayushee Shah March,2017
 
 This project is a part of University of Texas at Arlington curiculum and can not 
 be copied or distributed without the express permission of Ayushee Shah
